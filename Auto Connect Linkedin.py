@@ -36,10 +36,10 @@ password.send_keys('Ronewandou@1997')
 
 submit = driver.find_element_by_xpath("//button[@type='submit']").click()
 
-#time.sleep(2)
+
 
 #****************ADD CONTRACTS*********************
-n_pages = 40
+n_pages = 30
 for n in range(23,n_pages):
     w = str(n)
     print(w)
