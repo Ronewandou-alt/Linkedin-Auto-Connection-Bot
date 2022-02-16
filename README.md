@@ -9,3 +9,7 @@ To use this Bot you need to install Python first
 ```
 https://www.python.org/downloads/
 ```
+Then
+```
+pip install selenium
+```
