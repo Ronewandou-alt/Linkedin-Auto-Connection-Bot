@@ -5,4 +5,6 @@ This an Automation Bot build in python with selenium to connect in linkedin with
 ## Installation
 
 To use this Bot you need to install Python first
-'''bash https://www.python.org/downloads/ '''
+'''bash 
+https://www.python.org/downloads/ 
+'''
