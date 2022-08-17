@@ -15,7 +15,7 @@ pip install selenium
 ```
 ## Usage
 
-Go to linkedin search for your interested people you will want to connect you
+Go to linkedin search for your interested people you will want connect to
 
 ### Example
 if url is https://www.linkedin.com/search/results/people/?keywords=senior%20quantity%20surveyor&network=%5B%22S%22%5D&origin=FACETED_SEARCH&page=1&position=1&searchId=9fc7e98e-4b71-4355-95a5-6a9a5e27a487&sid=Nia
